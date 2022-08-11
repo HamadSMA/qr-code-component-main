@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 
-### What I learned
-
-Learned that in order to center a div element, you can set the margin left and right to auto.
 
 ## Author
 
